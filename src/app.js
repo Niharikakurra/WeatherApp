@@ -3,7 +3,7 @@ const app = express();
 const hbs=require("hbs");
 const port = process.env.PORT || 3000 ;
 const staticPath="D:/Node/expressweb/public";
-const template_path="D:/Node/expressweb/src/templates/views";
+const template_path="src/templates/views";
 const partials_path="src/templates/partials";
 
 
