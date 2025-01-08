@@ -5,9 +5,9 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node src/app.js"
+    "start": "src/app.js"
   },
-  "author": "Sagnik Saha",
+  "author": "Niharika Kurra",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
